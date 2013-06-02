@@ -1,0 +1,62 @@
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\MVC4Teste.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\MVC4Teste.pdb
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Antlr3.Runtime.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\EntityFramework.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Newtonsoft.Json.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Net.Http.Formatting.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.WebHost.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Mvc.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Optimization.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Providers.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Razor.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Deployment.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Razor.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\WebGrease.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\EntityFramework.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Newtonsoft.Json.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Net.Http.Formatting.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.WebHost.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Mvc.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Razor.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Deployment.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Razor.xml
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\obj\Debug\MVC4Teste.csprojResolveAssemblyReference.cache
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\obj\Debug\MVC4Teste.dll
+c:\users\cristiano moura\documents\visual studio 2012\Projects\MVC4Teste\MVC4Teste\obj\Debug\MVC4Teste.pdb
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\MVC4Teste.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\MVC4Teste.pdb
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Antlr3.Runtime.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\EntityFramework.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Newtonsoft.Json.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Net.Http.Formatting.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.WebHost.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Mvc.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Optimization.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Providers.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Razor.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\WebGrease.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\EntityFramework.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\Newtonsoft.Json.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Net.Http.Formatting.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Http.WebHost.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Mvc.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.Razor.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\obj\Debug\MVC4Teste.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\obj\Debug\MVC4Teste.pdb
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\obj\Debug\MVC4Teste.csprojResolveAssemblyReference.cache
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\negWalMart.dll
+C:\Users\Cristiano\Documents\Visual Studio 2012\Projects\MVC4Teste\MVC4Teste\bin\negWalMart.pdb

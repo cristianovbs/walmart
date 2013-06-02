@@ -1,0 +1,5 @@
+c:\users\cristiano\documents\visual studio 2012\Projects\negWalMart\negWalMart\bin\Debug\negWalMart.dll
+c:\users\cristiano\documents\visual studio 2012\Projects\negWalMart\negWalMart\bin\Debug\negWalMart.pdb
+c:\users\cristiano\documents\visual studio 2012\Projects\negWalMart\negWalMart\obj\Debug\negWalMart.csprojResolveAssemblyReference.cache
+c:\users\cristiano\documents\visual studio 2012\Projects\negWalMart\negWalMart\obj\Debug\negWalMart.dll
+c:\users\cristiano\documents\visual studio 2012\Projects\negWalMart\negWalMart\obj\Debug\negWalMart.pdb

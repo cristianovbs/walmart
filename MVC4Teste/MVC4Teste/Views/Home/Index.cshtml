@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Página Inicial";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Avaliação .NET</h2>
+
+<h3>Problema proposto</h3>
+<p>O objetivo é desenvolver um site com um cadastro de estados e um cadastro de cidades, e um webservice que receba as requisições de consulta, inclusão, atualização e exclusão das cidades e serializeos dados em um arquivo XML no disco.
+Site (MVC)</p>
+<p>Desenvolva um site que permita que os dados de estados e cidades sejam gerenciados. O mínimo de páginas do site deverá ser:</p>
+<p>	Menu que será exibido em todas as telas.</p>
+<p>	Listagem de estados – Deve listar todos os estados cadastrados. Deve possibilitar a exclusão de estados via AJAX.</p>
+<p>	Formulário de cadastro e edição de estados.</p>
+<p>	Listagem de cidades – Deve listar todas as cidades cadastradas. Deve possibilitar a exclusão de cidades via AJAX.</p>
+<p>	Formulário de cadastro e edição de cidades.</p>
+<p> Para a inclusão, edição e exclusão de cidade a operação do serviço de serialização correspondente deverá ser chamada após a execução do comando no banco de dados. Uma falha na requisição ao serviço deve resultar em rollback das operações no banco de dados.
+Serviço de serialização (WebService)</p>
+Crie um serviço web, em uma aplicação web independente do site, que exponha as seguintes operações:
+<p>	Adicionar cidade: a operação recebe uma instância de cidade e a serializa no disco. A rota do método deve ser /cidades/add. O método deve aceitar apenasHTTPPOST;</p>
+<p>	Atualizar cidade: a operação recebe uma instância de cidade e substitui o arquivo já gerado em disco/cidades/{identificador da cidade}. O método deve aceitar apenas HTTPPUT;</p>
+<p>	Excluir cidade: a operação recebe o identificador da cidade e exclui o arquivo no disco. A rota da operação deve ser /cidades/{identificador da cidade}. O método deve aceitar apenas HTTPDELETE;</p>
+<p>	Consultar cidade: a operação recebe o identificador da cidade e retorna os dados do XML encontrado.A rota da operação deve ser /cidades/{identificador da cidade}. O método deve aceitar apenas HTTPGET.</p>
+

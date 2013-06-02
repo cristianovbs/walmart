@@ -1,0 +1,27 @@
+﻿@model negWalMart.Models.ModelCidade
+
+@{
+    ViewBag.Title = "Adicionar Cidade";
+}
+
+<h2>Adicionar Cidade</h2>
+
+@using (Html.BeginForm("AdicionarCidade", "Cidade", FormMethod.Post))
+{
+    <fieldset>
+        <legend>Adicionar Cidade</legend>
+
+        <label>Código:</label>@Html.TextBoxFor(e => e.Codigo)
+        @Html.ValidationMessageFor(e => e.Codigo)<br />
+
+        <label>Nome:</label>@Html.TextBoxFor(e => e.Nome)
+        @Html.ValidationMessageFor(e => e.Codigo)<br />
+
+        <label>Estado:</label>@Html.DropDownList("Estado", "Selecione")
+        @Html.ValidationMessageFor(e => e.Estado)<br />
+
+        <label>Capital:</label>@Html.CheckBoxFor(e => e.Capital)
+        @Html.ValidationMessageFor(e => e.Capital)<br />
+        @Html.ActionLink("Cancelar", "Index") | <input type="submit" value="Salvar" /><br /><br />
+    </fieldset>
+}

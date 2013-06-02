@@ -1,0 +1,33 @@
+﻿@model IEnumerable<negWalMart.Models.ModelCidade>
+@{
+    ViewBag.Title = "Lista das Cidades Cadastradas";
+}
+
+<h2>Lista de Cidades</h2>
+<table>
+    <tr>
+        <th>Código</th>
+        <th>Nome</th>
+        <th>Estado</th>
+        <th>Capital</th>
+        <th>Ação</th>
+    </tr>
+
+    @foreach (negWalMart.Models.ModelCidade cid in Model)
+    {
+        <tr id="row-@cid.Codigo">
+            <td>@cid.Codigo</td>
+            <td>@cid.Nome</td>
+            <td>@cid.Estado</td>
+            <td>@if(cid.Capital==true){ <text>Sim</text> }else { <text>Não</text>}</td>
+            <td>@Html.ActionLink("Editar", "Editar", new { cidade = cid.Codigo }) | <a href="javascript:void(0);" onclick="postaAJAX(this, '/Cidade/Delete/');"  data-id="@cid.Codigo">Excluir</a></td>
+        </tr>
+    }
+    <tr>
+        <td colspan="5">@Html.ActionLink("Adicionar nova Cidade...", "Adicionar") </td>
+    </tr>
+</table>
+
+<div id="progresso" style="display: none;">
+    <img src="../../Content/Images/progress.gif" />
+</div>

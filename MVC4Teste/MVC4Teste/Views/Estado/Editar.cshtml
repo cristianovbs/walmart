@@ -1,0 +1,32 @@
+﻿@model negWalMart.Models.ModelEstado
+
+@{
+    ViewBag.Title = "Editar";
+}
+
+<h2>Editar Estado</h2>
+
+@using (Html.BeginForm("EditarEstado", "Estado", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+    <fieldset class="cad">
+        <legend>Estado</legend>
+        
+        <label>Código:</label><span>@Html.DisplayTextFor(e => e.Codigo)</span>
+        @Html.HiddenFor(e => e.Codigo)<br /><br />
+
+        <label>Nome:</label>@Html.TextBoxFor(e => e.Nome)
+        @Html.ValidationMessageFor(e => e.Nome)<br />
+
+        <label>País:</label>@Html.TextBoxFor(e => e.Pais)
+        @Html.ValidationMessageFor(e => e.Pais)<br />
+
+        <label>Região:</label>@Html.TextBoxFor(e => e.Regiao)
+        @Html.ValidationMessageFor(e => e.Regiao)<br />
+
+        <label>Sigla:</label>@Html.TextBoxFor(e => e.Sigla)
+        @Html.ValidationMessageFor(e => e.Sigla)<br />
+
+        @Html.ActionLink("Cancelar", "Index") | <input type="submit" value="Salvar" /><br /><br />
+    </fieldset>
+}

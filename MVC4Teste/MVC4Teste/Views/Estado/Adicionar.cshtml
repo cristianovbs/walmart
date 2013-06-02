@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Adicionar Estado";
+}
+
+<h2>Adicionar Estado</h2>
+
+@using (Html.BeginForm("AdicionarEstado", "Estado", FormMethod.Post))
+{
+    <fieldset>
+        <legend>Adicionar Estado</legend>
+        @Html.EditorForModel()
+        @Html.ActionLink("Cancelar", "Index") | <input type="submit" value="Salvar" /><br /><br />
+    </fieldset>
+}
